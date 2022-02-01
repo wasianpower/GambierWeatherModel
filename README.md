@@ -1,1 +1,3 @@
 # GambierWeatherModel
+
+This is a quick little model that I made to help plan to shoot films at Kenyon College. The purpose is to help show filmmakers the odds they will have to get a desirable day within their shooting period -- for example, if you wanted to know if there would be a day within your shoot date where the temprature was high enough for the actors to wear swimsuits. This model is certainly flawed for it's simplicty -- it treats days as independent events, when in fact the weather of one day is dependent on the day before it. However, it still works for general purposes as long as this fact is not forgotten.
